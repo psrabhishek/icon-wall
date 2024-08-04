@@ -1,0 +1,15 @@
+{
+    "canvas_size": {
+        "height": 1920,
+        "width": 480
+    },
+    "perspective_transform": {
+        "angle": 2,
+        "skew_factor": 0.0008
+    },
+    "min_gap_ratio": 0.20,
+    "extra_padding_factor": 1.2,
+    "input_dir": "input",
+    "output_path": "output/background_image.png",
+    "image_transparency": 0
+}
